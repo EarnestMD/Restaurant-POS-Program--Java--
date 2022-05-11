@@ -1,5 +1,5 @@
 # Restaurant-POS-Program--Java--
-Creating a simple POS program seperated into three problem files for a restaurant that calculates total bill value, value per person, tip, tax and prints an itemized bill.
+Creating a simple POS program separated into three problem files for a restaurant that calculates total bill value, value per person, tip, tax and prints an itemized bill.
 
 The inputs and outputs for the program are as follows:
 
