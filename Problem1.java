@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
 /**
+Creating a simple POS program separated into three problem files for a restaurant that calculates total bill value, value per person, tip, tax and prints an itemized bill.
+
+The inputs and outputs for the program are as follows:
+
+--Problem1--
+
+Input: 2 20 10 30 0
+
+Output: Total: 60.00 CAD Divided by 2: 30.00 CAD
  * This class represents a simple a program that will read how many people are sitting at the table and the value of each purchased item to compute the total cost of the meal.
  *
  * @author Nilay Das
