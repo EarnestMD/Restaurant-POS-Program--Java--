@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 /**
+--Problem2--
+
+Input: 2 20 10 30 0 13 ON
+
+Output: Total before tax: 60.00 CAD Tip: 7.80 CAD Total after tax: 76.61 CAD Divided by 2: 38.31 CAD
+
  * This class represents a simple a program that will read how many people are sitting at the table and the value of each purchased item to compute the total cost of the meal.
  * It also applies the sales tax on the total value of the bill, including the tip.
  *
