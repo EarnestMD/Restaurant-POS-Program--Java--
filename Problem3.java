@@ -2,6 +2,16 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
+Input: 2 5 salumi misti 18 linguine alla carbonara 17 tortellini al prosciutto 20 crème brûlée al caffè 10 coppa al caramello 10 20 NS
+
+Output: Itemized bill:
+
+salumi misti : 18.00
+linguine alla carbonara : 17.00
+tortellini al prosciutto : 20.00
+crème brûlée al caffè : 10.00
+coppa al caramello : 10.00 Total before tax: 75.00 CAD Tip: 15.00 CAD Total after tax: 103.50 CAD Divided by 2: 51.75 CAD
+
  * This class represents a simple a program that will read how many people are sitting at the table and the value of each purchased item to compute the total cost of the meal.
  * It also applies the sales tax on the total value of the bill, including the tip.
  * Finally, this program adds an itemized bill that is it prints the name and price of each item that was purchased before the bill's total.
